@@ -1,11 +1,11 @@
-## Simple Dropdown Example
-
 <details>
-  <summary>Click to expand dropdown</summary>
-  
-  This is the dropdown content. You can add any Markdown formatted text or HTML here.
-  
-  - List item 1
-  - List item 2
-  - List item 3
+<summary>Meus Repositórios</summary>
+<ul>
+<li> Faculdade</li>
+<ul>
+<li> Aprendizado</li>
+<li> Estágios</li>
+</ul>
+<li> Projetos </li>
+</ul>
 </details>
