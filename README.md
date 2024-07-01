@@ -119,10 +119,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+# About my work on GitHub
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=petersudario&show_icons=true&theme=transparent&locale=pt-BR )
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petersudario&locale=pt-BR&langs_count=9&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+# Contact me!
+>E-mail: petersudariobusiness@gmail.com
+>Linkedin: https://www.linkedin.com/in/andr%C3%A9-alija-ramos-agostini-aab98226a/
 ###
 
 
