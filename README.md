@@ -2,7 +2,9 @@
 <details>
 <summary>Meus Repositórios</summary>
   <ul>
-    <details> <summary>Faculdade</summary>
+    <details> 
+      <summary>Faculdade</summary>
+      <ul>
       <details> <summary>1° Período</summary>
         <ul>
           <li><a href="">Raciocínio Algorítmico (Python)</a></li>
@@ -33,6 +35,7 @@
       </details>
       <details> <summary>8° Período</summary>
       </details>
+    </ul>
     </details>
     <details> <summary>Aprendizado</summary>
     </details>
