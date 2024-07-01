@@ -9,11 +9,11 @@
         </ul>
       </details>
       <details> <summary>2° Período</summary>
-      </details>
         <ul>
           <li><a href="">Programação Web</a></li>
           <li><a href="">Banco de Dados</a></li>  
         </ul>
+      </details>
       <details> <summary>3° Período</summary>
         <ul>
           <li><a href="https://github.com/andretini/petmania">Experiência Criativa (Laravel e React)</a></li>
