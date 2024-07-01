@@ -1,3 +1,4 @@
+
 <details>
 <summary>Meus Repositórios</summary>
   <ul>
@@ -8,11 +9,11 @@
       </details>
       <details> <summary>3° Período</summary>
         <ul>
-          <li>[Experiência Criativa](https://github.com/andretini/petmania)</li>
+          <li><a href="https://github.com/andretini/petmania">Experiência Criativa</a></li>
           <li>[HTML5 Canvas e Games (Godot game Engine)](https://github.com/andretini/O_Retorno_de_Pebas)</li>  
           <li>[Angular](https://github.com/andretini/Livraria)</li>
           <li>[Java](https://github.com/andretini/PJBL_POO)</li>
-        </ul>ul>
+        </ul>
       </details>
       <details> <summary>4° Período</summary>
       </details>
