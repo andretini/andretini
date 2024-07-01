@@ -10,9 +10,9 @@
       <details> <summary>3° Período</summary>
         <ul>
           <li><a href="https://github.com/andretini/petmania">Experiência Criativa</a></li>
-          <li>[HTML5 Canvas e Games (Godot game Engine)](https://github.com/andretini/O_Retorno_de_Pebas)</li>  
-          <li>[Angular](https://github.com/andretini/Livraria)</li>
-          <li>[Java](https://github.com/andretini/PJBL_POO)</li>
+          <li><a href="https://github.com/andretini/Livraria">Web development Framework(Angular)</a></li>  
+          <li><a href="https://github.com/andretini/O_Retorno_de_Pebas">HTML5 Canvas e Games (Godot Game Engine</a></li>
+          <li><a href="https://github.com/andretini/PJBL_POO">Programação Orientada a Objetos (Java)</a></li>
         </ul>
       </details>
       <details> <summary>4° Período</summary>
