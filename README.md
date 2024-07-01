@@ -7,10 +7,12 @@
       <details> <summary>2° Período</summary>
       </details>
       <details> <summary>3° Período</summary>
-        -(([Experiência Criativa](https://github.com/andretini/petmania))
-        -([HTML5 Canvas e Games (Godot game Engine)](https://github.com/andretini/O_Retorno_de_Pebas))      
-        -([Angular](https://github.com/andretini/Livraria))
-        -([Java](https://github.com/andretini/PJBL_POO))
+        <ul>
+          <li>(([Experiência Criativa](https://github.com/andretini/petmania))</li>
+          <li>([HTML5 Canvas e Games (Godot game Engine)](https://github.com/andretini/O_Retorno_de_Pebas))</li>  
+          <li>([Angular](https://github.com/andretini/Livraria))</li>
+          <li>([Java](https://github.com/andretini/PJBL_POO))</li>
+        </ul>ul>
       </details>
       <details> <summary>4° Período</summary>
       </details>
