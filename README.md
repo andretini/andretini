@@ -54,9 +54,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
+###
 
 <details>
-<summary><h1>Meus Repositórios<h1></summary>
+<summary><h3>Meus Repositórios<h3></summary>
   <ul>
     <details> 
       <summary>Faculdade</summary>
@@ -119,7 +120,6 @@
     </details>
   </ul>
 </details>
-
 
 ###
 
