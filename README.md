@@ -40,7 +40,7 @@
 
 ###
 
-<details>
+<details align="left">
 <summary><h3>Meus Repositórios<h3></summary>
   <ul>
     <details> 
