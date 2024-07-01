@@ -1,9 +1,13 @@
 <details>
 <summary>Meus Repositórios</summary>
-<ul>
-<li> Faculdade</li>
-<li> Aprendizado</li>
-<li> Estágios</li>
-<li> Projetos </li>
-</ul>
+  <ul>
+    <details> <summary>Faculdade</summary>
+    </details>
+    <details> <summary>Aprendizado</summary>
+    </details>
+    <details> <summary>Estágios</summary>
+    </details>
+    <details> <summary>Projetos</summary>
+    </details>
+  </ul>
 </details>
