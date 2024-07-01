@@ -44,8 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://www.bing.com/images/search?view=detailV2&ccid=tJgtYj%2fe&id=60C1B0BF8ACEC7C266FE93CCBEA3B0BC4BE2226B&thid=OIP.tJgtYj_ezHT4ExDYQ3n8ngHaEW&mediaurl=https%3a%2f%2fwww.oriongovernance.com%2fwp-content%2fuploads%2f2022%2f08%2fCobol.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b4982d623fdecc74f81310d84379fc9e%3frik%3dayLiS7ywo77Mkw%26pid%3dImgRaw%26r%3d0&exph=294&expw=501&q=cobol+icones&simid=608055687877372469&FORM=IRPRST&ck=DAF657192C4D5B2BF281104922F343B3&selectedIndex=27&itb=0" height="30" alt="cobol logo"  />
 </div>
 
 ###
