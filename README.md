@@ -5,18 +5,18 @@
     <details> 
       <summary>Faculdade</summary>
       <ul>
-        <li><details> <summary>1° Período</summary>
+        <details> <summary>1° Período</summary>
           <ul>
             <li><a href="">Raciocínio Algorítmico (Python)</a></li>
           </ul>
-        </details></li>
-        <li><details> <summary>2° Período</summary>
+        </details>
+        <details> <summary>2° Período</summary>
           <ul>
             <li><a href="">Programação Web</a></li>
             <li><a href="">Banco de Dados</a></li>  
           </ul>
-        </details></li>
-        <li><details> <summary>3° Período</summary>
+        </details>
+        <details> <summary>3° Período</summary>
           <ul>
             <li><a href="https://github.com/andretini/petmania">Experiência Criativa (Laravel e React)</a></li>
             <li><a href="https://github.com/andretini/Livraria">Web development Framework(Angular)</a></li>  
@@ -24,17 +24,22 @@
             <li><a href="https://github.com/andretini/PJBL_POO">Programação Orientada a Objetos (Java)</a></li
             <li><a href="https://github.com/andretini/Projeto-Autentica-o-e-Controle-de-Acesso">Segurançã da Informação (Python)</a></li>
           </ul>
-        </details></li>
-        <li><details> <summary>4° Período</summary>
-        </details></li>
-        <li><details> <summary>5° Período</summary>
-        </details></li>
-        <li><details> <summary>6° Período</summary>
-        </details></li>
-        <li><details> <summary>7° Período</summary>
-        </details></li>
-        <li><details> <summary>8° Período</summary>
-        </details></li>
+        </details>
+        <details> <summary>4° Período</summary>
+          A cursar
+        </details>
+        <details> <summary>5° Período</summary>
+          A cursar
+        </details>
+        <details> <summary>6° Período</summary>
+          A cursar
+        </details>
+        <details> <summary>7° Período</summary>
+          A cursar
+        </details>
+        <details> <summary>8° Período</summary>
+          A cursar
+        </details>
     </ul>
     </details>
     <details> <summary>Aprendizado</summary>
