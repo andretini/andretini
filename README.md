@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Eu moro em Curitiba PR<br><br>- 🔭 Estou estaginado em desenvolvimento de software na VOLVO GROUP<br>- 📚 Atualmente estou estudando React<br>- ⚡ No meu tempo livre gosto de jogar, tocar musica e fazer experimentos com circuitos e impressão 3D ...</p>
 
 ###
 
