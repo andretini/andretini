@@ -125,7 +125,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petersudario&locale=pt-BR&langs_count=9&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact me!
->E-mail: petersudariobusiness@gmail.com
+>E-mail: petersudariobusiness@gmail.com <br>
 >Linkedin: https://www.linkedin.com/in/andr%C3%A9-alija-ramos-agostini-aab98226a/
 ###
 
