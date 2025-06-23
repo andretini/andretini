@@ -50,6 +50,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000" height="30" alt="Android Studio"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=24465&format=png&color=000000" height="30" alt="Swift"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=51974&format=png&color=000000" height="30" alt="xCode"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=U41Than0pWOW&format=png&color=000000" height="30" alt="RUST"  />
 </div>
 
 ###
