@@ -37,6 +37,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo"  />
   <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=U41Than0pWOW&format=png&color=000000" height="30" alt="RUST"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="30" alt="dotnet logo"  />
@@ -54,8 +56,6 @@
   <img src="https://img.icons8.com/?size=100&id=24465&format=png&color=000000" height="30" alt="Swift"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=51974&format=png&color=000000" height="30" alt="xCode"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=U41Than0pWOW&format=png&color=000000" height="30" alt="RUST"  />
 </div>
 
 ###
