@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Eu moro em Curitiba PR<br><br>- 🔭 Atualmente estou estagiando em desenvolvimento de software na VOLVO GROUP<br>- 📚 Atualmente estou estudando Computação Gráfica e WebAssembly<br>- ⚡ No meu tempo livre gosto de jogar, tocar musica e fazer impressão 3D ...</p>
+<p align="left">Eu moro em Curitiba PR<br><br>- 🔭 Atualmente estou estagiando em desenvolvimento de software na VOLVO GROUP<br>- 📚 Atualmente estou estudando Computação Gráfica e WebAssembly<br>- ⚡ No meu tempo livre gosto de jogar, tocar musica e fazer impressão 3D</p>
 
 ###
 
